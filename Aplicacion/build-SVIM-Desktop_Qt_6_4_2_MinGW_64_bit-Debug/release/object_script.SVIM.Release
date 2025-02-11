@@ -1,0 +1,14 @@
+release/archivo.o
+release/archivo_mif.o
+release/detectordeestructuras.o
+release/filtrodecolor.o
+release/graficador.o
+release/imagen.o
+release/interfaz.o
+release/main.o
+release/metadatos.o
+release/oscuredor.o
+release/pixel.o
+release/procesador.o
+release/sistema.o
+release/moc_sistema.o
