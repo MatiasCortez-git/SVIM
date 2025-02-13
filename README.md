@@ -81,8 +81,8 @@ Este proyecto continuará evolucionando con nuevas versiones donde iré implemen
 ✅ Optimización del rendimiento y corrección de errores.  
 
 ¡Si tienes sugerencias o ideas, estaré encantado de escucharlas! 🎯  
-##📜 Licencia
+## 📜 Licencia
 Este proyecto se distribuye bajo la Licencia MIT.
 
-##👨‍💻 Autor
+## 👨‍💻 Autor
 Cortez Matias – Estudiante de UADER
